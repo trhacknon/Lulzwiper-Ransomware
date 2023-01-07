@@ -1,5 +1,5 @@
 # Lulzwiper-Ransomware
-Lulzwiper Ransomware 2.1
+Lulzwiper Ransomware 2.1 trhacknon's mod
 
 how to use
 
@@ -11,7 +11,7 @@ DOne!!!
 
 defult passs lulzindia
  
-contact us : https://discord.gg/2eBYku3
+contact us : https://discord.gg/
                                                             
 command:
 
