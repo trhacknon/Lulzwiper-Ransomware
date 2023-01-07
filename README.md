@@ -9,8 +9,6 @@ how to use
 
 DOne!!!
 
-defult passs 
- 
 contact us : https://discord.gg/
                                                             
 command:
