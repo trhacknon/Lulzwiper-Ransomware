@@ -9,7 +9,7 @@ how to use
 
 DOne!!!
 
-defult passs lulzindia
+defult passs 
  
 contact us : https://discord.gg/
                                                             
