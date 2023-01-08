@@ -75,7 +75,7 @@ print("""
                                                                     .| $$......| $$  | $$| $$../$$__/../$$  \ $$||$$_____/.| $$.......
                                                                     .| $$$$$$$$|  $$$$$$/| $$ /$$$$$$$$|  $$$$$$/|  $$$$$$$|  $$$$$$$.
                                                                     .|________/.\______/.|__/|________/.\______/..\_______/.\_______/.
-                                                                    .......................//Laughing at your security since 2011! -->
+                                                                    ...mod.by.trhacknon....//Laughing at your security since 2011! -->
 command : 
 Encrypt files = cry
 Decrypt files = decry                                                                            
